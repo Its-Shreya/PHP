@@ -186,7 +186,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 If you have any questions or need further assistance, feel free to reach out:
 
-- **GitHub**: [Its-Shreya](https://github.com/yourusername)
+- **GitHub**: [Its-Shreya](https://github.com/Its-Shreya)
 
 Thank you for visiting the Basic PHP Codes repository. Happy coding!
 
